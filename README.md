@@ -1,4 +1,4 @@
 # hello-world
 Repository Tutorial
-im hungry
-just editing
+I'm hungry.
+Just editing.
